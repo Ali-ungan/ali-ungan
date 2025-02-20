@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m @ali-ungan<br>👀 I’m interested in PHP<br>🌱 I’m currently learning JS frameworks
+👋 Hi, I’m @ali-ungan<br>👀 I’m interested in web development<br>🌱 I’m currently learning JS frameworks
 
 
 
