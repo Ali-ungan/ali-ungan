@@ -1,4 +1,4 @@
-👋 Hi, I’m @ali-ungan<br>👀 I’m interested in web development<br>🌱 I’m currently learning JS frameworks
+👋 Hi, I’m @ali-ungan<br>👀 I’m interested in web development<br>🌱 I’m currently learning JS frameworks and Laravel
 
 
 
